@@ -1,6 +1,7 @@
 # Práctica INPUT
 ### Resolución de problemas
 
+El archivo debe llamarse **Practica.py**
 Realice un programa en **Python** que realice conversiones llamado **convertir()** entre las unidades de **Celsius, Fahrenheit y Kelvin**, para ello el usuario debe ingresar la opción para realizar la conversión específica:
 
 - (1) Celsius a Fahrenheit
